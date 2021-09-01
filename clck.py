@@ -22,4 +22,4 @@ github: https://github.com/qu3tiiii
 xz = int(input("Cantidad de clicks: "))
 for i in range(xz):
      pyautogui.click()
-
+     print("[+]clickeado[+]")
